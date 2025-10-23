@@ -17,7 +17,6 @@ I enjoy turning ideas into clean interfaces with efficient, reusable code.
 ### 🚀 Featured Projects
 🔹 **[ToDo App](https://github.com/F0m1k23/toDo)** – Task manager built with Vue 3 + Pinia + TailwindCSS  
 🔹 **[Generator Alert](https://github.com/F0m1k23/generatorAlert)** – Lightweight JS project for generating custom alerts  
-🔹 **[wthr](https://github.com/F0m1k23/wthr)** – Simple weather UI built with CSS and HTML
 
 ---
 
