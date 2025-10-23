@@ -22,8 +22,7 @@ I enjoy turning ideas into clean interfaces with efficient, reusable code.
 
 ### 📫 Contact Me
 📧 **vitalifomenko153@gmail.com**  
-💼 [LinkedIn](https://linkedin.com/in/your-link)  
-🌍 [Upwork](https://www.upwork.com/freelancers/~your-profile)
+💼 [LinkedIn]([https://linkedin.com/in/your-link](https://www.linkedin.com/in/vitalii-fomenko-340b8738a/))  
 
 ---
 
