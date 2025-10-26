@@ -1,59 +1,47 @@
-# 👋 Hi, I'm Vitalii  
+# 👋 Hi, I'm Vitalii
 
-🎨 **Frontend Developer | Vue.js | JavaScript | TailwindCSS**
-
-I’m a passionate **frontend developer** focused on building responsive, user-friendly, and modern web applications.  
-I love turning ideas into clean interfaces with efficient, reusable code.
+**Frontend Developer (Vue.js / JavaScript / UI / UX)**  
+I build clean, fast and user-friendly interfaces. I enjoy turning ideas into smooth digital experiences.
 
 ---
 
 ## 🧠 Tech Stack
 
-**Languages & Tools:**
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,vue,tailwind,git,vite,figma,python" />
+<p>
+  <img src="https://skillicons.dev/icons?i=js,vue,vite,tailwind,html,css,git,figma,python" />
 </p>
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects
 
-<div align="left">
+| Project | Description | Tech |
+|--------|-------------|------|
+| ⭐ **ToDo App** | Modern and simple task manager with state management. | Vue 3, Pinia, TailwindCSS |
+| 🎛 **Admin Panel** | Dashboard for managing posts (CRUD). | Vue 3, Vue Router, JSON Server |
+| ⚡ **Generator Alert** | Lightweight configurable alert system. | JavaScript, CSS |
 
-🔹 [**ToDo App**](https://github.com/F0m1k23/toDo) – Task manager built with **Vue 3**, **Pinia**, and **TailwindCSS**  
-*✨ Modern task management with clean UI and state management*
-
-🔹 [**Admin Panel**](https://github.com/F0m1k23/admin-panel) – Content management interface built with **Vue 3**, **Vue Router**, and **REST API**  
-*🎛️ Full-featured admin dashboard for posts management*
-
-🔹 [**Generator Alert**](https://github.com/F0m1k23/generatorAlert) – Lightweight **JavaScript** project for generating custom alerts  
-*⚡ Custom alert system with flexible configuration*
-
-</div>
+👉 View all projects: https://github.com/F0m1k23
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=F0m1k23&show_icons=true&theme=tokyonight" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=F0m1k23&theme=tokyonight" height="160" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=F0m1k23&layout=compact&theme=tokyonight" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=F0m1k23&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=F0m1k23&theme=tokyonight" width="48%" />
 </p>
 
 ---
 
-## 📫 Contact Me
+## 📫 Contact
 
-📧 **vitalifomenko153@gmail.com**  
-💼 [**LinkedIn**](https://www.linkedin.com/in/vitalii-fomenko-340b8738a/)  
-🌍 [**Portfolio (coming soon)**](#)
+**Email:** vitalifomenko153@gmail.com  
+**LinkedIn:** https://www.linkedin.com/in/vitalii-fomenko-340b8738a/  
+**Portfolio:** (coming soon)
 
 ---
 
-⭐ *Open to freelance, collaboration, and full-time opportunities.*  
-Let’s build something great together! 🚀
+⭐ *Open to full-time, freelance, and collaboration opportunities.*  
+Let’s build something great together!
+
