@@ -19,7 +19,8 @@ I love turning ideas into clean interfaces with efficient, reusable code.
 
 ## 🚀 Featured Projects
 
-🔹 [**ToDo App**](https://github.com/F0m1k23/toDo) – Task manager built with **Vue 3**, **Pinia**, and **TailwindCSS**  
+🔹 [**ToDo App**](https://github.com/F0m1k23/toDo) – Task manager built with **Vue 3**, **Pinia**, and **TailwindCSS** 
+🔹 [**Admin-panel**]([https://github.com/F0m1k23/generatorAlert](https://github.com/F0m1k23/admin-panel)) – Content management interface built with **Vue 3**, **Vue Router**, and **REST API**
 🔹 [**Generator Alert**](https://github.com/F0m1k23/generatorAlert) – Lightweight **JavaScript** project for generating custom alerts  
 
 ---
