@@ -17,9 +17,7 @@ Focused on simplicity, performance, and detail.
 | Project | Description | Stack |
 |----------|--------------|--------|
 | 🎯 [**MouseShope**](https://mouseshope.netlify.app/) | Modern e-commerce demo with Supabase & Pinia. | Vue 3 · Pinia · Supabase · TailwindCSS |
-| ✅ [**ToDo App**](https://github.com/F0m1k23/todo-app) | Minimal and elegant task manager. | Vue 3 · Pinia · TailwindCSS |
 | 🧮 [**Admin Panel**](https://github.com/F0m1k23/admin-panel) | Dashboard for data management with CRUD. | Vue 3 · Router · JSON Server |
-| ⚡ [**Alert Generator**](https://github.com/F0m1k23/alert-generator) | Customizable alert system for web apps. | JavaScript · CSS |
 
 ---
 
