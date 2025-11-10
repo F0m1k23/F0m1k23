@@ -1,27 +1,30 @@
-# 👋 Hi, I'm Vitalii  
-### Frontend Developer (Vue.js / JavaScript / UI / UX)
+# 👋 Hi, I'm Vitalii
 
-I design and build fast, clean, and intuitive web interfaces — transforming ideas into elegant user experiences.  
-Focused on simplicity, performance, and detail.
+### Frontend Developer — Vue · Pinia · TailwindCSS · Supabase
+
+I build clean, fast, and responsive web apps using **Vue 3** and modern tools.  
+I care about clear structure, good UX, and simple but strong solutions.  
+Also familiar with backend basics — REST APIs, Flask, and Supabase.
 
 ---
 
-## 🧰 Tech Stack  
+## 🧰 Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vue,js,ts,vite,tailwind,html,css,git,figma,python&theme=light" />
+  <img src="https://skillicons.dev/icons?i=vue,js,ts,vite,tailwind,html,css,git,python,supabase&theme=light" />
 </p>
 
 ---
 
-## 🧩 Selected Projects  
+## 🧩 Projects
+
 | Project | Description | Stack |
 |----------|--------------|--------|
-| 🎯 [**MouseShope**](https://mouseshope.netlify.app/) | Modern e-commerce demo with Supabase & Pinia. | Vue 3 · Pinia · Supabase · TailwindCSS |
-| 🧮 [**Admin Panel**](https://github.com/F0m1k23/admin-panel) | Dashboard for data management with CRUD. | Vue 3 · Router · JSON Server |
+| 🖱️ [**MouseShop**](https://mouseshope.netlify.app/) | E-commerce demo with products, auth, and Supabase backend. | Vue 3 · Pinia · Supabase · TailwindCSS |
+| ⚙️ [**Admin Panel**](https://github.com/F0m1k23/admin-panel) | Simple dashboard with CRUD and clean UI. | Vue 3 · Router · TailwindCSS · JSON Server |
 
 ---
 
-## 📫 Connect  
+## 📫 Contact
 <p align="center">
   <a href="mailto:vitalifomenko153@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="26"/></a>
   &nbsp;&nbsp;
@@ -32,4 +35,5 @@ Focused on simplicity, performance, and detail.
 
 ---
 
-⭐ *Open for collaboration, freelance, and full-time opportunities.*
+⭐ Always learning, building, and open to new projects.
+
