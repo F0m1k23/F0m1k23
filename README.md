@@ -9,7 +9,7 @@ I build web apps with Vue and understand backend basics (REST, Flask, Supabase).
 ### 🧩 Projects  
 - 🖱️ [MouseShop](https://mouseshope.netlify.app/) — e-commerce demo with Supabase & Pinia  
 - ⚙️ [Admin Panel](https://github.com/F0m1k23/admin-panel) — dashboard with CRUD & TailwindUI
-- 🎨 [Landingl](https://github.com/F0m1k23/interno-landing) — html scss js
+- 🎨 [Landing](https://github.com/F0m1k23/interno-landing) — html scss js
 
 ---
 
