@@ -2,7 +2,7 @@
 Frontend Developer · Vue 3 · Pinia · TailwindCSS · Supabase
 
 Clean UI, fast performance, and simple architecture — that’s what I focus on.  
-I build web apps with Vue and understand backend basics (REST, Flask, Supabase).
+I build web apps with Vue 
 
 ---
 
