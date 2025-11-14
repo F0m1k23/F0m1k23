@@ -14,7 +14,7 @@ I build web apps with Vue and understand backend basics (REST, Flask, Supabase).
 ---
 
 ### 🧰 Stack  
-Vue 3 · Pinia · TailwindCSS · Supabase · Vite · Flask · Git
+Vue 3 · Pinia · TailwindCSS · Supabase · Vite · JacaScript · Git - Css 
 
 ---
 
