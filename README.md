@@ -16,13 +16,3 @@ I build web apps with Vue
 ### 🧰 Stack  
 Vue 3 · Pinia · TailwindCSS · Supabase · Vite · JacaScript · Git - Css 
 
----
-
-### 📫 Contact  
-[vitalifomenko153@gmail.com](mailto:vitalifomenko153@gmail.com)  
-[GitHub](https://github.com/F0m1k23) · [LinkedIn](https://www.linkedin.com/in/vitalii-fomenko-340b8738a/)
-
----
-
-⭐ Always building and learning.
-
